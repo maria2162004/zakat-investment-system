@@ -10,6 +10,6 @@ A CS251 project developed using object-oriented design principles.
 - Session Management
 
 ## Technologies
-- C++
+- java
 - OOP
 - UML Design
